@@ -1,5 +1,8 @@
 # iis_webapp
 
+# Preface
+This code was taken from a GitHub Enterprise repository hosted by Texas A&M University to avoid its loss before it shuts down. This code was in no way shape or form stolen, copied, or fabricated. Credit goes to Nassef Ameen, Mitchell Taylor, Ross Petersen, and Julio Gonzalez for contributing to this repository. 
+
 In order to run this program, you will need to first run the server program on one terminal before starting the client program on another.
 
 # Server Side
